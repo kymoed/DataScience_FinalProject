@@ -1,5 +1,6 @@
 # DataScience_FinalProject
-Utilizing data science and machine learning to predict the future of players and teams in Counter-Strike: Global Offensive videogame
+Utilizing data science and machine learning to predict the future of players and teams in Counter Strike: Global Offensive videogame
+The working code is in the teams file.
 
 Link to the blog post:
 
